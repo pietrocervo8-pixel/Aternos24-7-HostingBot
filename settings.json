@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "veltrocraft-mc.aternos.me:13738",
+    "port": 13738,
     "version": "",
     "try-creative": false
   },
